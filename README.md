@@ -47,12 +47,34 @@ The project uses the following components, as applicable to the implemented setu
 
 ## Project Files
 
-* `dead_zone_prediction.ino` — Main project program.
-* `turbidity_calibration.ino` — Turbidity sensor calibration helper.
+### Arduino Source Code
+
+- [Main Dead Zone Prediction Code](dead_zone_prediction.ino)
+- [Turbidity Sensor Calibration Code](turbidity_calibration.ino)
+
+### Demonstration Video
+
+[Watch or download the project demonstration video](Demonstration%20video.mp4)
 
 ## Project Demonstration
 
-Project photographs and the demonstration video can be added to this repository as supporting evidence of the hardware implementation.
+The following photographs show the hardware setup and implementation of the TruthLens Dead Zone Prediction System.
+
+### Hardware Setup
+
+![Dead Zone Project Hardware](dead%20zone%20picture%20%281%29.png)
+
+### Sensor and Circuit Setup
+
+![Sensor and Circuit Setup](dead%20zone%20picture%20%282%29.png)
+
+### ESP32 and Sensor Connections
+
+![ESP32 and Sensor Connections](dead%20zone%20picture%20%283%29.png)
+
+### Additional Project View
+
+![Additional Hardware View](dead%20zone%20picture%20%284%29.png)
 
 ## Important Technical Note
 
