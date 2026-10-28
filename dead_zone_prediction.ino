@@ -1,4 +1,4 @@
-// ============================================================
+ // ============================================================
 //  Dead Zone Prediction System (Without DS18B20)
 //  Components: ESP32, pH Sensor, Turbidity Sensor, TDS Sensor,
 //              LCD 16x2 I2C, Buzzer, Red LED, Green LED
